@@ -1,0 +1,24 @@
+18:12:27.217 [main] INFO  api.test.UserTests - ******Creating User**********
+18:12:48.810 [main] INFO  api.test.UserTests - ****** User created**********
+18:12:48.941 [main] INFO  api.test.UserTests - ******Fetching UserByName**********
+18:12:51.301 [main] INFO  api.test.UserTests - ******Fetched details UserByName**********
+18:12:51.351 [main] INFO  api.test.UserTests - ******Update UserByName**********
+18:12:54.571 [main] INFO  api.test.UserTests - ******Updated UserByName**********
+18:12:54.594 [main] INFO  api.test.UserTests - ******Delete UserByName**********
+18:12:56.125 [main] INFO  api.test.UserTests - ******Deleted UserByName**********
+18:48:05.833 [main] INFO  api.test.UserTests - ******Creating User**********
+18:48:32.899 [main] INFO  api.test.UserTests - ****** User created**********
+18:48:33.358 [main] INFO  api.test.UserTests - ******Fetching UserByName**********
+18:48:35.090 [main] INFO  api.test.UserTests - ******Fetched details UserByName**********
+18:48:35.100 [main] INFO  api.test.UserTests - ******Update UserByName**********
+18:48:37.749 [main] INFO  api.test.UserTests - ******Updated UserByName**********
+18:48:37.759 [main] INFO  api.test.UserTests - ******Delete UserByName**********
+18:48:39.073 [main] INFO  api.test.UserTests - ******Deleted UserByName**********
+19:18:53.670 [main] INFO  api.test.UserTests - ******Creating User**********
+19:19:12.420 [main] INFO  api.test.UserTests - ****** User created**********
+19:19:12.539 [main] INFO  api.test.UserTests - ******Fetching UserByName**********
+19:19:14.131 [main] INFO  api.test.UserTests - ******Fetched details UserByName**********
+19:19:14.148 [main] INFO  api.test.UserTests - ******Update UserByName**********
+19:19:17.318 [main] INFO  api.test.UserTests - ******Updated UserByName**********
+19:19:17.332 [main] INFO  api.test.UserTests - ******Delete UserByName**********
+19:19:18.743 [main] INFO  api.test.UserTests - ******Deleted UserByName**********
